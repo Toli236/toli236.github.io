@@ -2,16 +2,29 @@ h1 {
     color: blueviolet;
 
 }
-#titleBox{
-background-color: brown
-margin: 20px
-border: 3px salmon
+
+img{
+    width: 250px;
+    height: auto;
+}
+
+body {
+    background-color: violet;
+    margin: 0 auto;
+    text-align: center
+
+
+}
+#titleBox {
+background-color: brown;
+margin: 30px;
+border: 3px salmon;
 
 
 }
 .listbox {
-background-color: aquamarine
-margin: 20px
-border: 2px darkorange
+background-color: aquamarine;
+margin: 20px;
+border: 2px darkorange;
 
 }
