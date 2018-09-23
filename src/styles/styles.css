@@ -11,7 +11,7 @@ img{
 body {
     background-color: violet;
     margin: 0 auto;
-    text-align: center
+    text-align: center;
 
 
 }
@@ -22,8 +22,16 @@ border: 3px salmon;
 
 
 }
-.listbox {
+.listboxIngredients {
 background-color: aquamarine;
+margin: 20px;
+border: 2px darkorange;
+
+}
+
+}
+.listboxMethod {
+background-color: rgb(161, 127, 255);
 margin: 20px;
 border: 2px darkorange;
 
