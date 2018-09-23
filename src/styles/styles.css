@@ -33,5 +33,6 @@ border: 2px darkorange;
 background-color: rgb(161, 127, 255);
 margin: 20px;
 border: 2px rgb(68, 0, 255);
+display: inline-block;
 
 }
